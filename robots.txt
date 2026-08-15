@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-cdal4b.bokupaybymobilecasino.co.uk/sitemap.xml
